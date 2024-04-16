@@ -1,0 +1,55 @@
+body{
+    background: lightskyblue;
+    color: white;
+    border: 5px solid rgb(72, 205, 49);
+    width: 45%;
+}
+
+h1{
+    font-style: italic;
+    text-align: center;
+}
+
+h2{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+}
+
+section{
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    color: rgb(72, 205, 49);
+    text-decoration: underline;
+}
+
+img{
+    width: 25%;
+    height: 25%;
+    float: right;
+    position: relative;
+    right: 10px;
+}
+
+ul{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* footer{
+    font-family: 'Roboto', sans-serif;
+} */
